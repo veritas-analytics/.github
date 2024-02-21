@@ -48,7 +48,7 @@ Para todos estos proyectos, este documento sirve solo como resumen y no busca se
 <br> 
 <br>
 
-### Version 1
+### Version 1 [(link al repositorio)](https://github.com/veritas-analytics/VeritasV1)
 
 La primera versión del software busca dar un sistema integral para un dispositivo Veritas con capacidad para medir muestras y predecir su denominación de origen. Su campo de acción son solo un subconjunto de denominaciones de origen de vinagre y cuenta con un modelo realizado para tal fin que no es modificable. Este sistema no busca guardar las muestras tomadas ni ser de más utilidad que la de disponer de un dispositivo sin conexión que cualquiera sin conocimientos sobre su implementación pueda usar para hacer pruebas relativamente fiables sobre un vinagre propio.
 
